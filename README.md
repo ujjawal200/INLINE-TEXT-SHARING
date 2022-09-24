@@ -3,6 +3,8 @@
 2. Show a custom menu with a twitter sharing button next to the selected text  
 3. After clicking the sharing button, the **Twitter “sharing window” should appear with the selected text prefilled, ready to be tweeted**.
 
+Deployed / working site link - https://ujjawal200.github.io/INLINE-TEXT-SHARING/
+
 **Landing page**
 ![Screenshot (261)](https://user-images.githubusercontent.com/106134726/192086657-1981d4f3-1f54-4004-9906-c964c588b948.png)
 
